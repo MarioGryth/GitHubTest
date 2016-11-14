@@ -3,3 +3,7 @@
 import UIKit
 
 var str = "Hello, playground"
+
+func IMadeAFunction(string1: String){
+    
+}
